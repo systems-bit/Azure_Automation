@@ -6,4 +6,3 @@ workflow Start-SourceControl
  
 Write-Output "Azure Automation Source Control via GitHub"
 }
-
